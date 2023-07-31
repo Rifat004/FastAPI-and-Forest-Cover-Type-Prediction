@@ -1,8 +1,10 @@
-# Serving ML models using FastAPI 
+# Classification Task on 'Forest Cover Type Prediction' and then Serving ML models using FastAPI 
 
-In this task, the goal is to create a backend to serve three (03) models from Task 3. The task4.ipynb file in this folder represents the concise version of Task 3. I kept only the feature engineering and loaded 3 pre-trained ML models that were built for predicting forest cover type in Task 3. To focus mainly on FastAPI, I have selected the reduced features as the input features for testing. The code is available as "app.py" in this folder.
+- final.ipynb contains code for EDA + Feature Engineering + Classification
+- final_shortened.ipynb contains code (with EDA)
+- app.py (FastAPI)
 
-## Workflow
+## Workflow for Serving ML Models with FastAPI
 
 **1. Understanding the background**:
 
