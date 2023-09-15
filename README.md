@@ -6,8 +6,6 @@
 
 ## Workflow for Classification
 
-# Classification Task on 'Forest Cover Type Prediction'
-
 This repository contains code for applying classification techniques on the 'Forest Cover Type Prediction' dataset. After performing EDA, data preprocessing, and feature engineering, I have built various classification models to predict forest cover type.
 
 ## Dataset
